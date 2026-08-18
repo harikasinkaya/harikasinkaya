@@ -1,122 +1,143 @@
-<div align="center">
-
-```text
+<pre>
 kaya@github:~$ git clone https://github.com/harikasinkaya/harikasinkaya.git
 
 Cloning into 'harikasinkaya'...
 remote: Enumerating objects: 100% (42/42), done.
 remote: Counting objects: 100% (42/42), done.
 remote: Compressing objects: 100% (42/42), done.
-Receiving objects: 100% (100%), done.
+Receiving objects: 100% (42/42), done.
+Resolving deltas: 100% (42/42), done.
 
 kaya@github:~$ cd harikasinkaya
+
 kaya@github:~/harikasinkaya$ cat README.md
 
-```
 
-# Kaya
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                         K A Y A                              │
+│                                                              │
+│       Web, Network Developer & Artificial Intelligence       │
+│                         Engineering                          │
+│                                                              │
+│                         Turkey 🇹🇷                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
-```text
-Web, Network Developer & Artificial Intelligence (AI) Engineering
-Turkey 🇹🇷
-```
 
-```text
-──────────────────────────────────────────────────────────────
+kaya@github:~/harikasinkaya$ whoami
 
-NAME        Kaya
-LOCATION    Turkey
-ROLE        Web / Network / AI
-STATUS      ONLINE
+Kaya
 
-──────────────────────────────────────────────────────────────
-```
 
-</div>
+kaya@github:~/harikasinkaya$ cat about.txt
 
-## `~/about`
+I'm a Web & Network Developer and Artificial Intelligence Engineer
+based in Turkey.
 
-```text
-I build software across the web, network and artificial
-intelligence stack.
+I build web applications, backend systems, network infrastructure,
+AI-powered tools and developer-oriented software.
 
-My interests include backend systems, APIs, network
-infrastructure, AI agents, model routing and developer tools.
+My main interests are:
 
-I like understanding how things work underneath the abstraction
-and turning complex infrastructure into simple software.
-```
+    Web
+    Network
+    Artificial Intelligence
+    Infrastructure
 
-## `~/skills`
 
-```text
-kaya@github:~/harikasinkaya$ tree skills/
+kaya@github:~/harikasinkaya$ neofetch
 
-skills/
-├── web/
+
+        .-/+oossssoo+/-.             kaya@github
+    `:+ssssssssssssssssss+:`         ─────────────────────────
+  -+ssssssssssssssssssssss+-         OS          Linux
+ /ssssssssssssssssssssssssss/        Location    Turkey
++ssssssssssssssssssssssssssss+       Role        Web / Network / AI
+ssssssssssssssssssssssssssssss       Status      Online
+ssssssssssssssssssssssssssssss       Focus       AI & Infrastructure
++ssssssssssssssssssssssssssss+       Website     kaya.kim
+ /ssssssssssssssssssssssssss/
+  -+ssssssssssssssssssssss+-
+    `:+ssssssssssssssss+:`
+        .-/+oossssoo+/-. 
+
+
+kaya@github:~/harikasinkaya$ tree ~/skills
+
+/home/kaya/skills
+
+├── web
 │   ├── backend
 │   ├── api-development
 │   ├── real-time
-│   └── authentication
+│   ├── authentication
+│   └── cloud-native
 │
-├── network/
+├── network
 │   ├── infrastructure
 │   ├── dns
 │   ├── http
 │   ├── reverse-proxy
 │   └── server-management
 │
-└── artificial-intelligence/
+└── artificial-intelligence
     ├── llm
     ├── ai-agents
     ├── model-routing
     ├── tool-calling
     └── ai-infrastructure
-```
 
-## `~/stack`
 
-```text
 kaya@github:~/harikasinkaya$ cat stack
 
+
 LANGUAGES
-  JavaScript
-  TypeScript
-  Python
-  SQL
+─────────
+JavaScript
+TypeScript
+Python
+SQL
+
 
 WEB / BACKEND
-  Node.js
-  Fastify
-  Express
-  REST
-  WebSockets
+─────────────
+Node.js
+Fastify
+Express
+REST
+WebSockets
+
 
 ARTIFICIAL INTELLIGENCE
-  LLMs
-  AI APIs
-  AI Agents
-  Model Routing
-  Tool Calling
+───────────────────────
+LLMs
+AI APIs
+AI Agents
+Model Routing
+Tool Calling
 
-INFRASTRUCTURE
-  Linux
-  Docker
-  Cloudflare
-  Nginx
-  DNS
-  Git
+
+NETWORK / INFRASTRUCTURE
+────────────────────────
+Linux
+Docker
+Cloudflare
+Nginx
+DNS
+Git
+
 
 DATABASES
-  PostgreSQL
-  SQLite
-  Redis
-```
+─────────
+PostgreSQL
+SQLite
+Redis
 
-## `~/projects`
 
-```text
-kaya@github:~/harikasinkaya$ ls -la projects/
+kaya@github:~/harikasinkaya$ ls -la ~/projects
+
+total 48
 
 drwxr-xr-x  ai-gateway/
 drwxr-xr-x  ai-infrastructure/
@@ -124,61 +145,97 @@ drwxr-xr-x  developer-tools/
 drwxr-xr-x  network-systems/
 drwxr-xr-x  telegram-storage/
 drwxr-xr-x  open-source/
-```
 
-## `~/currently`
 
-```text
 kaya@github:~/harikasinkaya$ cat currently.txt
 
-[+] Building AI infrastructure
-[+] Experimenting with autonomous agents
-[+] Developing API gateways
-[+] Working on network systems
-[+] Creating developer tools
-[+] Contributing to open source
-```
 
-## `~/philosophy`
+[+] AI Infrastructure
+[+] Autonomous AI Agents
+[+] API Gateways
+[+] Developer Tools
+[+] Network Systems
+[+] Cloud Infrastructure
+[+] Open Source
 
-```text
+
 kaya@github:~/harikasinkaya$ cat philosophy.txt
+
 
 > Build simple.
 > Keep it fast.
 > Understand the infrastructure.
 > Automate everything possible.
 > Make technology useful.
-```
 
-## `~/github`
 
-<div align="center">
+kaya@github:~/harikasinkaya$ git status
 
-<img src="https://github-readme-stats.vercel.app/api?username=harikasinkaya&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" width="48%">
+On branch main
+Your branch is up to date with 'origin/main'.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikasinkaya&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%">
+nothing to commit, working tree clean.
 
-</div>
 
----
+kaya@github:~/harikasinkaya$ cat contact.txt
 
-<div align="center">
-
-```text
-kaya@github:~/harikasinkaya$ ./contact
 
 Website : https://kaya.kim
 GitHub  : https://github.com/harikasinkaya
 Email   : me@kaya.kim
 
+
+kaya@github:~/harikasinkaya$ ping kaya.kim
+
+PING kaya.kim
+
+64 bytes from kaya.kim: icmp_seq=1 ttl=56 time=12ms
+64 bytes from kaya.kim: icmp_seq=2 ttl=56 time=11ms
+64 bytes from kaya.kim: icmp_seq=3 ttl=56 time=10ms
+
+--- kaya.kim ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss
+
+
+kaya@github:~/harikasinkaya$ echo $MISSION
+
+
+Build.
+Break.
+Learn.
+Repeat.
+
+
 kaya@github:~/harikasinkaya$ exit
 
 logout
-```
 
-**Web · Network · Artificial Intelligence**
+Connection to github closed.
 
-`Turkey 🇹🇷 · 2026`
+
+────────────────────────────────────────────────────────────────
+
+                    KAYA · 2026
+
+              Web · Network · Artificial Intelligence
+
+                         Turkey 🇹🇷
+
+────────────────────────────────────────────────────────────────
+</pre>
+
+<div align="center">
+
+<a href="https://github.com/harikasinkaya">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://kaya.kim">
+<img src="https://img.shields.io/badge/kaya.kim-000000?style=flat-square&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="mailto:me@kaya.kim">
+<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 </div>

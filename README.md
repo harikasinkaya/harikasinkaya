@@ -8,9 +8,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square\&logo=googlechrome\&logoColor=white)](https://savage.best)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/harikasinkaya)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square\&logo=googlechrome\&logoColor=white)](https://kaya.kim)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square\&logo=gmail\&logoColor=white)](mailto:me@kaya.kim)
 
 </div>
 
@@ -112,9 +112,9 @@ Designing scalable web services, APIs and network-oriented systems with a focus 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harikasinkaya&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikasinkaya&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 
 </div>
 

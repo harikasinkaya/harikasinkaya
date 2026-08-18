@@ -1,6 +1,6 @@
 <div align="center">
 
-# Harikasinkaya
+# Harikasın Kaya - You're amazing, Kaya.
 
 ### Web, Network Developer & Artificial Intelligence (AI) Engineering
 

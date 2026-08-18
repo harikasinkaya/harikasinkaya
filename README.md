@@ -1,7 +1,10 @@
 <div align="center">
 
-# Harikasın Kaya - You're amazing, Kaya.
+#const Kaya = {
 
+##role: ["Web", "Network", "AI"],
+##location: "Turkey"
+## };
 ### Web, Network Developer & Artificial Intelligence (AI) Engineering
 
 **Turkey 🇹🇷**

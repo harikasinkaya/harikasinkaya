@@ -1,4 +1,6 @@
-<pre>
+<div align="center">
+
+```text
 kaya@github:~$ git clone https://github.com/harikasinkaya/harikasinkaya.git
 
 Cloning into 'harikasinkaya'...
@@ -7,12 +9,8 @@ remote: Counting objects: 100% (42/42), done.
 remote: Compressing objects: 100% (42/42), done.
 Receiving objects: 100% (42/42), done.
 Resolving deltas: 100% (42/42), done.
-
 kaya@github:~$ cd harikasinkaya
-
 kaya@github:~/harikasinkaya$ cat README.md
-
-
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │                         K A Y A                              │
@@ -24,12 +22,11 @@ kaya@github:~/harikasinkaya$ cat README.md
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 
+</div>
 
 kaya@github:~/harikasinkaya$ whoami
 
 Kaya
-
-
 kaya@github:~/harikasinkaya$ cat about.txt
 
 I'm a Web & Network Developer and Artificial Intelligence Engineer
@@ -38,31 +35,23 @@ based in Turkey.
 I build web applications, backend systems, network infrastructure,
 AI-powered tools and developer-oriented software.
 
-My main interests are:
+My main interests live somewhere between:
 
     Web
     Network
     Artificial Intelligence
     Infrastructure
-
-
 kaya@github:~/harikasinkaya$ neofetch
 
-
-        .-/+oossssoo+/-.             kaya@github
-    `:+ssssssssssssssssss+:`         ─────────────────────────
-  -+ssssssssssssssssssssss+-         OS          Linux
- /ssssssssssssssssssssssssss/        Location    Turkey
-+ssssssssssssssssssssssssssss+       Role        Web / Network / AI
-ssssssssssssssssssssssssssssss       Status      Online
-ssssssssssssssssssssssssssssss       Focus       AI & Infrastructure
-+ssssssssssssssssssssssssssss+       Website     kaya.kim
- /ssssssssssssssssssssssssss/
-  -+ssssssssssssssssssssss+-
-    `:+ssssssssssssssss+:`
-        .-/+oossssoo+/-. 
-
-
+       .--.             kaya@github
+      |o_o |            ─────────────
+      |:_/ |            OS          : Linux
+     //   \ \           Host        : GitHub
+    (|     | )          Location    : Turkey
+   /'\_   _/`\          Role        : Web / Network / AI
+   \___)=(___/          Status      : Online
+                         Focus       : AI & Infrastructure
+                         Website     : kaya.kim
 kaya@github:~/harikasinkaya$ tree ~/skills
 
 /home/kaya/skills
@@ -87,10 +76,7 @@ kaya@github:~/harikasinkaya$ tree ~/skills
     ├── model-routing
     ├── tool-calling
     └── ai-infrastructure
-
-
 kaya@github:~/harikasinkaya$ cat stack
-
 
 LANGUAGES
 ─────────
@@ -133,8 +119,6 @@ DATABASES
 PostgreSQL
 SQLite
 Redis
-
-
 kaya@github:~/harikasinkaya$ ls -la ~/projects
 
 total 48
@@ -145,10 +129,7 @@ drwxr-xr-x  developer-tools/
 drwxr-xr-x  network-systems/
 drwxr-xr-x  telegram-storage/
 drwxr-xr-x  open-source/
-
-
 kaya@github:~/harikasinkaya$ cat currently.txt
-
 
 [+] AI Infrastructure
 [+] Autonomous AI Agents
@@ -157,34 +138,24 @@ kaya@github:~/harikasinkaya$ cat currently.txt
 [+] Network Systems
 [+] Cloud Infrastructure
 [+] Open Source
-
-
 kaya@github:~/harikasinkaya$ cat philosophy.txt
-
 
 > Build simple.
 > Keep it fast.
 > Understand the infrastructure.
 > Automate everything possible.
 > Make technology useful.
-
-
 kaya@github:~/harikasinkaya$ git status
 
 On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean.
-
-
 kaya@github:~/harikasinkaya$ cat contact.txt
-
 
 Website : https://kaya.kim
 GitHub  : https://github.com/harikasinkaya
 Email   : me@kaya.kim
-
-
 kaya@github:~/harikasinkaya$ ping kaya.kim
 
 PING kaya.kim
@@ -195,47 +166,29 @@ PING kaya.kim
 
 --- kaya.kim ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss
-
-
 kaya@github:~/harikasinkaya$ echo $MISSION
-
 
 Build.
 Break.
 Learn.
 Repeat.
 
+<div align="center">
 
 kaya@github:~/harikasinkaya$ exit
 
 logout
 
 Connection to github closed.
+KAYA · 2026
+
+Web · Network · Artificial Intelligence
+
+Turkey 🇹🇷
 
 
-────────────────────────────────────────────────────────────────
 
-                    KAYA · 2026
 
-              Web · Network · Artificial Intelligence
 
-                         Turkey 🇹🇷
 
-────────────────────────────────────────────────────────────────
-</pre>
-
-<div align="center">
-
-<a href="https://github.com/harikasinkaya">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://kaya.kim">
-<img src="https://img.shields.io/badge/kaya.kim-000000?style=flat-square&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="mailto:me@kaya.kim">
-<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-</div>
+</div> ```

@@ -1,10 +1,26 @@
-# Kaya
 <div align="center">
 
-<a href="https://github.com/harikasinkaya"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"> </a>  <a href="https://kaya.kim"> <img src="https://img.shields.io/badge/kaya.kim-000000?style=flat-square&logo=googlechrome&logoColor=white"> </a> <a href="mailto:me@kaya.kim"> <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"> </a>
+# WHO IS KAYA?
+
+**Web, Network Developer & Artificial Intelligence Engineering**
+
+<br>
+
+<a href="https://github.com/harikasinkaya">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://kaya.kim">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:me@kaya.kim">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
 
 </div>
-
 ```bash
 kaya@github:~$ git clone https://github.com/harikasinkaya/harikasinkaya.git
 

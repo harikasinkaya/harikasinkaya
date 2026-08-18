@@ -1,4 +1,4 @@
-```sh
+```bash
 kaya@github:~$ git clone https://github.com/harikasinkaya/harikasinkaya.git
 
 Cloning into 'harikasinkaya'...

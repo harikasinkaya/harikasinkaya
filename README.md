@@ -1,5 +1,6 @@
-<div align="center">
 # Kaya
+<div align="center">
+
 <a href="https://github.com/harikasinkaya"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"> </a>  <a href="https://kaya.kim"> <img src="https://img.shields.io/badge/kaya.kim-000000?style=flat-square&logo=googlechrome&logoColor=white"> </a> <a href="mailto:me@kaya.kim"> <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"> </a>
 
 </div>

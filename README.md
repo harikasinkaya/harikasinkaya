@@ -1,74 +1,72 @@
 <div align="center">
 
 ```text
-kaya@github:~$ whoami
+kaya@github:~$ git clone https://github.com/harikasinkaya/harikasinkaya.git
 
-Kaya
+Cloning into 'harikasinkaya'...
+remote: Enumerating objects: 100% (42/42), done.
+remote: Counting objects: 100% (42/42), done.
+remote: Compressing objects: 100% (42/42), done.
+Receiving objects: 100% (100%), done.
+
+kaya@github:~$ cd harikasinkaya
+kaya@github:~/harikasinkaya$ cat README.md
+
+```
+
+# Kaya
+
+```text
 Web, Network Developer & Artificial Intelligence (AI) Engineering
 Turkey 🇹🇷
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github\&logoColor=fff)](https://github.com/harikasinkaya)
-[![Website](https://img.shields.io/badge/kaya.kim-000?style=flat-square\&logo=googlechrome\&logoColor=fff)](https://kaya.kim)
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square\&logo=gmail\&logoColor=fff)](mailto:me@kaya.kim)
+```text
+──────────────────────────────────────────────────────────────
+
+NAME        Kaya
+LOCATION    Turkey
+ROLE        Web / Network / AI
+STATUS      ONLINE
+
+──────────────────────────────────────────────────────────────
+```
 
 </div>
 
----
-
-## `kaya@github:~$ cat about.txt`
+## `~/about`
 
 ```text
-I'm a Web & Network Developer and Artificial Intelligence Engineer
-based in Turkey.
+I build software across the web, network and artificial
+intelligence stack.
 
-I build web applications, backend systems, network infrastructure,
-AI-powered tools and developer-oriented software.
+My interests include backend systems, APIs, network
+infrastructure, AI agents, model routing and developer tools.
 
-My main focus is the intersection of:
-
-    Web
-    Network
-    Artificial Intelligence
-    Infrastructure
+I like understanding how things work underneath the abstraction
+and turning complex infrastructure into simple software.
 ```
 
----
-
-## `kaya@github:~$ neofetch`
+## `~/skills`
 
 ```text
-OS            Linux
-Location      Turkey
-Role          Web / Network / AI
-Languages     JavaScript / TypeScript / Python
-Backend       Node.js / Fastify / Express
-AI            LLMs / Agents / Model Routing
-Infrastructure Docker / Cloudflare / Nginx
-Database      PostgreSQL / SQLite / Redis
-Status        Building...
-```
+kaya@github:~/harikasinkaya$ tree skills/
 
----
-
-## `kaya@github:~$ ls ~/skills`
-
-```text
-~/skills
-├── web
+skills/
+├── web/
 │   ├── backend
 │   ├── api-development
 │   ├── real-time
 │   └── authentication
 │
-├── network
+├── network/
 │   ├── infrastructure
 │   ├── dns
 │   ├── http
 │   ├── reverse-proxy
-│   └── servers
+│   └── server-management
 │
-└── artificial-intelligence
+└── artificial-intelligence/
     ├── llm
     ├── ai-agents
     ├── model-routing
@@ -76,92 +74,84 @@ Status        Building...
     └── ai-infrastructure
 ```
 
----
-
-## `kaya@github:~$ cat stack`
-
-### Languages
-
-`JavaScript` · `TypeScript` · `Python` · `SQL`
-
-### Web & Backend
-
-`Node.js` · `Fastify` · `Express` · `REST` · `WebSockets`
-
-### Artificial Intelligence
-
-`LLMs` · `AI APIs` · `AI Agents` · `Model Routing` · `Tool Calling`
-
-### Infrastructure
-
-`Linux` · `Docker` · `Cloudflare` · `Nginx` · `DNS` · `Git`
-
-### Databases
-
-`PostgreSQL` · `SQLite` · `Redis`
-
----
-
-## `kaya@github:~$ ps aux`
+## `~/stack`
 
 ```text
-PROJECT                         STATUS
-────────────────────────────────────────────
-AI Gateway                     RUNNING
-AI Infrastructure              RUNNING
-Developer Tools                RUNNING
-Network Systems                RUNNING
-Open Source                    ACTIVE
+kaya@github:~/harikasinkaya$ cat stack
+
+LANGUAGES
+  JavaScript
+  TypeScript
+  Python
+  SQL
+
+WEB / BACKEND
+  Node.js
+  Fastify
+  Express
+  REST
+  WebSockets
+
+ARTIFICIAL INTELLIGENCE
+  LLMs
+  AI APIs
+  AI Agents
+  Model Routing
+  Tool Calling
+
+INFRASTRUCTURE
+  Linux
+  Docker
+  Cloudflare
+  Nginx
+  DNS
+  Git
+
+DATABASES
+  PostgreSQL
+  SQLite
+  Redis
 ```
 
----
-
-## `kaya@github:~$ cat currently_building`
+## `~/projects`
 
 ```text
-[01] AI Infrastructure
-     Model routing, gateways and AI APIs
+kaya@github:~/harikasinkaya$ ls -la projects/
 
-[02] Autonomous AI Agents
-     Tool calling and intelligent workflows
-
-[03] Developer Tools
-     Tools designed for modern developers
-
-[04] Network Infrastructure
-     Reliable and scalable services
-
-[05] Open Source
-     Building and sharing useful software
+drwxr-xr-x  ai-gateway/
+drwxr-xr-x  ai-infrastructure/
+drwxr-xr-x  developer-tools/
+drwxr-xr-x  network-systems/
+drwxr-xr-x  telegram-storage/
+drwxr-xr-x  open-source/
 ```
 
----
-
-## `kaya@github:~$ cat philosophy`
+## `~/currently`
 
 ```text
-Build simple.
-Keep it fast.
-Understand the infrastructure.
-Automate everything possible.
-Make technology useful.
+kaya@github:~/harikasinkaya$ cat currently.txt
+
+[+] Building AI infrastructure
+[+] Experimenting with autonomous agents
+[+] Developing API gateways
+[+] Working on network systems
+[+] Creating developer tools
+[+] Contributing to open source
 ```
 
----
-
-## `kaya@github:~$ git log --oneline`
+## `~/philosophy`
 
 ```text
-ai: build smarter infrastructure
-feat: experiment with autonomous agents
-feat: improve API architecture
-infra: deploy another service
-fix: something that worked yesterday
+kaya@github:~/harikasinkaya$ cat philosophy.txt
+
+> Build simple.
+> Keep it fast.
+> Understand the infrastructure.
+> Automate everything possible.
+> Make technology useful.
 ```
 
----
-
-## `kaya@github:~$ github --stats`
+## `~/github`
 
 <div align="center">
 
@@ -176,11 +166,19 @@ fix: something that worked yesterday
 <div align="center">
 
 ```text
-kaya@github:~$ echo "Web · Network · Artificial Intelligence"
+kaya@github:~/harikasinkaya$ ./contact
 
-Turkey 🇹🇷
+Website : https://kaya.kim
+GitHub  : https://github.com/harikasinkaya
+Email   : me@kaya.kim
+
+kaya@github:~/harikasinkaya$ exit
+
+logout
 ```
 
-[GitHub](https://github.com/harikasinkaya) · [Website](https://kaya.kim) · [Email](mailto:me@kaya.kim)
+**Web · Network · Artificial Intelligence**
+
+`Turkey 🇹🇷 · 2026`
 
 </div>

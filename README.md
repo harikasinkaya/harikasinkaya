@@ -1,10 +1,11 @@
 <div align="center">
 
-# const Kaya = {
-
-## role: ["Web", "Network", "AI"],
-## location: "Turkey"
-## };
+```js 
+const Kaya = {
+ role: ["Web", "Network", "AI"],
+ location: "Turkey"
+ };
+ ```
 ### Web, Network Developer & Artificial Intelligence (AI) Engineering
 
 **Turkey 🇹🇷**

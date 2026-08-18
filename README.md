@@ -46,7 +46,6 @@ kaya@github:~/harikasinkaya$ cat README.md
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
-
 ```bash
 kaya@github:~/harikasinkaya$ neofetch
 
@@ -59,7 +58,6 @@ kaya@github:~/harikasinkaya$ neofetch
    \___)=(___/          Status    : Online
                          Uptime    : Building...
 ```
-
 ```bash
 kaya@github:~/harikasinkaya$ cat about.txt
 
@@ -76,7 +74,6 @@ My main interests live somewhere between:
     Artificial Intelligence
     Infrastructure
 ```
-
 ```bash
 kaya@github:~/harikasinkaya$ tree ~/skills
 
@@ -101,7 +98,6 @@ kaya@github:~/harikasinkaya$ tree ~/skills
     ├── tool-calling
     └── ai-infrastructure
 ```
-
 ```bash
 kaya@github:~/harikasinkaya$ cat stack
 
@@ -143,7 +139,6 @@ PostgreSQL
 SQLite
 Redis
 ```
-
 ```bash
 kaya@github:~/harikasinkaya$ cat contact.txt
 
